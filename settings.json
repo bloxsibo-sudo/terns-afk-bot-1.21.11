@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK Nuhu",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "nuhuscamcha",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "nunusc"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,16 +29,16 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 220,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "nuhu is the best",
+        "Subscribe to Ninzone1x",
+        "W nuhu?"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 1900,
     "max-reconnect-delay": 120000
   },
   "movement": {
