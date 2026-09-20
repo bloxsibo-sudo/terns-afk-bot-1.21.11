@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "this-sv-is-not-noods.aternos.me",
-    "port": 61893,
+    "port": ,
     "version": "1.21.11",
     "try-creative": false
   },
